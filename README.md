@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Calculator CI/CD Tests
 
 
@@ -28,3 +29,7 @@ pip install -r requirements.txt
 
 pytest -v
 
+=======
+# calculator_tests
+Автотесты калькулятора с CI/CD
+>>>>>>> b24a8e70cce3103e9148c11c1b3bacb0b9ee893f
